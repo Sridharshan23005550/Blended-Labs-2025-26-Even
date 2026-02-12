@@ -1,6 +1,6 @@
 ### Exp.No. 01  	Cloud Account Setup and Services Overview in AWS  
 
-### Date : 	  11/02/2026
+### Date : 	  12/02/2026
 
 ### Aim:  
 To create an cloud account in AWS and to explore all of its services.   
